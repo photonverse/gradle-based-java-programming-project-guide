@@ -13,7 +13,8 @@ A step-by-step guide explaining how to setup a new Gradle based Java project wit
   - Java 8: D:\Java\jdk1.8.0_181\bin
     - Note that Java 8 SE public updates will end after January 2019 for Commercial User and December 2020 for Personal User
 
-## Installing Gradle
+## Installing Groovy (Optional)
+- You do not need to install Groovy separately (it seems), but if you want to run groovy language...
 - Chocolatey, "the package manager for Windows", is recommended from the gradle website, and it is easy to use, however, changing the installation location is not an easy task unfortunately. For example, if you have a separate "D" drive for larger space disk, this will be a pain.
 - The default install location is C:\tools\groovy-*<version>*
 
